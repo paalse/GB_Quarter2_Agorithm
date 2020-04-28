@@ -15,27 +15,29 @@ public class Main {
 //        st.printStack();
 
 // 2. Проверка работы очереди
-        Queue<Integer> que = new Queue<Integer>(4);
-        que.insert(10);
-        que.insert(20);
-        que.insert(30);
-        que.printQueue();
-        System.out.println(que.remove());
-        que.printQueue();
-        que.insert(40);
-        que.printQueue();
-        que.insert(50);
-        que.printQueue();
-        System.out.println(que.remove());
-        que.printQueue();
-        que.insert(60);
-        que.printQueue();
-        System.out.println(que.remove());
-        System.out.println(que.remove());
-        que.printQueue();
-        que.insert(70);
-        que.printQueue();
-        System.out.println(que.remove());
-        que.printQueue();
+//        Queue<Integer> que = new Queue<Integer>(4);
+//        que.insert(10);
+//        que.insert(20);
+//        que.insert(30);
+//        que.printQueue();
+//        System.out.println(que.remove());
+//        que.printQueue();
+//        que.insert(40);
+//        que.printQueue();
+//        que.insert(50);
+//        que.printQueue();
+//        System.out.println(que.remove());
+//        que.printQueue();
+//        que.insert(60);
+//        que.printQueue();
+//        System.out.println(que.remove());
+//        System.out.println(que.remove());
+//        que.printQueue();
+//        que.insert(70);
+//        que.printQueue();
+//        System.out.println(que.remove());
+//        que.printQueue();
+//3. Создать программу, которая переворачивает вводимые строки (читает справа налево).
+
     }
 }
